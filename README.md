@@ -7,7 +7,7 @@ colaboradores del proyecto para trabajar de forma organizada en un desarrollo
 
 Existen dos ramas principales: `main` y `develop`. La rama `main` es la que se sube a produccion, la que va a ver el
 cliente y donde se mostrarán versiones estables y sin errores de la aplicación. La rama `develop` es en la que se 
-implementaran mejoras y cambios a las versiones. A partir de `develop` se crean ramas`feature` que sirven para trabajar 
+implementaran mejoras y cambios a las versiones. A partir de `develop` se crean ramas `feature` que sirven para trabajar 
 en el desarrollo, en las cuales se trabajará distintas partes del proyecto y donde trabajará cada integrante del 
 proyecto, lo cual facilitará que cada uno se centre en su parte del proyecto sin afectar a los demás. Al acabar, los 
 cambios y méjoras se unifican en la rama `develop`. La rama `release`, parte de `develop` y sirve para realizar pruebas 
