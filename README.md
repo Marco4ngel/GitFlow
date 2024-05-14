@@ -22,5 +22,7 @@ version estable a `main`.
 - Feature: Rama donde se trabaja en una parte del proyecto
 - Release: Rama donde se realizan pruebas unitarias de los cambios y mejoras
 - Hotfix: Rama donde se solucionan fallos imprevistos de las versiones estables
+<div align="left">
+<img src="img/img.png" alt="Git Flow" width="550">
+</div>
 
-![Git-Flow.png](.idea/imagenes/Git-Flow.png)
